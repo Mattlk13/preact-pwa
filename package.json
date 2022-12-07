@@ -10,7 +10,7 @@
     "test": "standard"
   },
   "dependencies": {
-    "express": "4.15.2",
+    "express": "4.17.3",
     "node-fetch": "1.6.3",
     "preact": "8.1.0",
     "preact-redux": "2.0.1",
