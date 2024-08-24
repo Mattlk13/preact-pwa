@@ -10,8 +10,8 @@
     "test": "standard"
   },
   "dependencies": {
-    "express": "4.15.2",
-    "node-fetch": "1.6.3",
+    "express": "4.19.2",
+    "node-fetch": "2.6.7",
     "preact": "8.1.0",
     "preact-redux": "2.0.1",
     "preact-render-to-string": "3.6.2",
@@ -24,7 +24,7 @@
     "cssnano": "3.10.0",
     "fs-extra-promise": "1.0.1",
     "node-rev": "2.0.0",
-    "node-sass": "4.5.2",
+    "node-sass": "9.0.0",
     "nodemon": "1.11.0",
     "purify-css": "1.2.5",
     "rollup": "0.41.6",
